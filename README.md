@@ -18,6 +18,5 @@ Vivo y estudio en Montevideo Uruguay, actualmente tengo 17 años y curso ultimo 
 - ☕ Java
 - ⭐ HTML & CSS
 - ✔ SQL
-- 
 
 ##### **Actualmente Estudiando**
