@@ -1,16 +1,23 @@
-### Hi there 👋
+# **👋Bienvenido a mi perfíl de Github**
+**Redes:**
+- [Instagram](https://instagram.com/lucsabreu "Instagram")
+- [Github](https://github.com/SuccessCod3 "Github")
 
-<!--
-**LucasAbreuUruguay/LucasAbreuUruguay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Sobre mi:**
+Vivo y estudio en Montevideo Uruguay, actualmente tengo 17 años y curso ultimo grado de secundaria.
 
-Here are some ideas to get you started:
+✅ Siguiente Meta: Poder llegar a trabajar como Junior
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### **¿Qué podras encontrar aquí?**
+- Herramientas de todo tipo
+- Plugins (Minecraft)
+- Scripts
+
+#### ¿Qué lenguajes manejo?
+- 🐍 Python (En aprendisaje)
+- ☕ Java
+- ⭐ HTML & CSS
+- ✔ SQL
+- 
+
+##### **Actualmente trabajando en: H4MTool v1.1.0**
